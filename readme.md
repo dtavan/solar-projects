@@ -1,5 +1,15 @@
 # SolarProject Interview Challenge
 
+**features**
+
+- vue for front end (with advanced javascript using async, await), using external component integration (such as vuejs-dialog, v-select2-component, vue-loading-overlay, vue-toast-notification, vue-uuid etc)
+- laravel resource apis for backend
+- docker for locally launching the application 
+- required eloquent models and migrations for project-customer relational models
+- mass delete logic for deleting using async api
+- unit tests for mass deletion and other crud apis
+- full fledged crud ui and user interfaces for list, single view and edit of the company's solar projects and customers associated to each project
+
 **Setup preparation**
 
 1. Clone this repository or download the source
