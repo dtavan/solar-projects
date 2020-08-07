@@ -1,0 +1,22 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vue serve index.js --port 11112"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "v-select2-component": "^0.4.3",
+    "vue-loading-overlay": "^3.3.2",
+    "vue-router": "^3.1.5",
+    "vue-toast-notification": "^0.4.1",
+    "vue-uuid": "^2.0.2",
+    "vuejs-dialog": "^1.4.1"
+  },
+  "devDependencies": {
+    "@vue/cli": "^4.1.2",
+    "@vue/cli-service-global": "^4.1.2"
+  }
+}
